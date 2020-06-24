@@ -30,7 +30,7 @@
             <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">品名</th>
+                    <th scope="col">品名1</th>
                     <th scope="col">數量</th>
                     <th scope="col">價格</th>
                     <th scope="col">顏色</th>
